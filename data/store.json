@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "user-1773908873622-aabff0fd",
+      "name": "Disaster",
+      "avatar": "/uploads/avatars/avatar-1773934276739-07f08447.jpg",
+      "createdAt": "2026-03-19T08:27:53.622Z",
+      "passwordHash": "62ec60003974746bfcca5ecacd00808cfc979ac194ec3b3ac7cf2e3a1860c6362d98984b1a8b6125d1f3917537c982fa98591063769d10ec2078698535267802",
+      "passwordSalt": "9a845b9f613f6652baa9d35a0c70d4d4",
+      "securityQuestion": "who are you",
+      "securityAnswerHash": "cc9c50079a315991319c09723b0724404caaa688c363d59f2663800ad8212124fbe6c6378a40bf447f55c8bfcc5663e3c47b83c6810d062d94e2dc942b987d81",
+      "securityAnswerSalt": "ab47b3eeca23d144106e1c3c8398781a",
+      "profile": {
+        "gender": "男",
+        "bio": "xjl牛逼",
+        "location": {
+          "countryCode": "CN",
+          "countryName": "中国",
+          "provinceCode": "370000",
+          "provinceName": "山东省",
+          "cityCode": "370100",
+          "cityName": "济南市",
+          "countyCode": "370102",
+          "countyName": "历下区"
+        }
+      }
+    }
+  ],
+  "sessions": [
+    {
+      "token": "16615c0b697f3601d3f016d9b727908b6e1c7228791d80d6e4a6e330941914fd",
+      "userId": "user-1773908873622-aabff0fd",
+      "createdAt": "2026-03-19T14:52:23.133Z"
+    }
+  ],
+  "blogs": [],
+  "checkinItems": [],
+  "notifications": [],
+  "friendRequests": [],
+  "messages": []
+}
